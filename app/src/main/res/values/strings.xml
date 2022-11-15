@@ -1,0 +1,46 @@
+<resources>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">LibraPP</string>
+    <string name="txt_bienvenida">Hola te damos la bienvenida a LibraPP, Nuestra aplicacion informativa sobre el espectro autista, pero se preguntaran ¿que es el espectro autista?</string>
+    <string name="txt_titulo1">Informacion</string>
+    <string name="txtemail">Email</string>
+    <string name="txt_titulo2">¿Que es el espectro autista?</string>
+    <string name="txt_informacion2">El trastorno del espectro autista es una afeccion relacionada con el desarrollo del cerebro que afecta la manera en la que una persona percibe y socializa con otras personas, lo que causa problemas en la interaccion social y la comunicacion. El trastorno tambien comprende patrones de conducta restringidos y repetitivos. El termino «espectro» en el trastorno del espectro autista se refiere a un amplio abanico de sintomas y gravedad.</string>
+    <string name="txt_titulo3">¿El autismo tiene sintomas ?</string>
+    <string name="txt_informacion3">Algunos niños presentan signos del trastorno del espectro autista en la primera infancia, como menor contacto visual, falta de respuesta cuando los llaman por su nombre o indiferencia ante las personas responsables del cuidado. Otros niños pueden desarrollarse normalmente durante los primeros meses o años de vida, pero luego repentinamente se vuelven introvertidos o agresivos o pierden habilidades del lenguaje que habían adquirido. En general, los signos se observan a los 2 años. Es probable que los trastornos del espectro autista tengan un patrón de comportamiento y un nivel de gravedad únicos en cada niño, desde un funcionamiento bajo hasta uno alto. Algunos niños con trastornos del espectro autista tienen dificultades de aprendizaje y algunos presentan signos de inteligencia inferiores a lo normal. Otros niños con este trastorno tienen una inteligencia entre normal y alta, aprenden rápido, aunque tienen problemas para comunicarse, aplicar lo que saben en la vida diaria y adaptarse a situaciones sociales. Debido a la combinación única de síntomas que presenta cada niño, a veces, puede ser difícil determinar la gravedad. En general, se basa en el nivel de deterioro y en cómo afecta la capacidad de desenvolverse.</string>
+    <string name="prefs_file">com.example.myapplication.PREFERENCE_FILE_KEY</string>
+    <string name="txt_titulo4">Comunicacion e interaccion social</string>
+    <string name="txt_informacion4">Un niño o un adulto con trastorno del espectro autista puede tener problemas con la interacción social y las habilidades de comunicación, incluso presentar cualquiera de los siguientes signos:
+
+                -No responde a su nombre o, en ocasiones, parece no escucharte
+                -Se resiste a los abrazos y las caricias; además, parece que prefiere jugar solo y se abstrae en su propio mundo
+                No suele hacer contacto visual y carece de expresión facial
+                -No habla o tiene un desarrollo tardío del habla, o bien pierde la capacidad que tenía para decir palabras u oraciones
+                -No puede mantener ni iniciar una conversación o, tal vez, inicia una solamente para pedir algo o nombrar elementos
+                -Habla con tono o ritmo anormal y es posible que utilice una voz cantarina o que hable como un robot
+                Repite palabras o frases textuales, pero no comprende cómo usarlas
+                -No parece entender preguntas o indicaciones simples
+                -No expresa emociones ni sentimientos y parece no ser consciente de los sentimientos de los demás
+                -No señala ni trae objetos para compartir sus intereses
+                -Aborda interacciones sociales de forma inadecuada comportándose de manera pasiva, agresiva o perturbadora
+                -Tiene dificultad para reconocer señales no verbales, como la interpretación de las expresiones faciales de otras personas, las posturas corporales o el tono de voz</string>
+    <string name="txt_titulo5">¿Que se celebra el 2 de abril?</string>
+    <string name="txt_informacion7">El 2 de abril se celebra el Día Mundial de Concientización sobre el Autismo decretado por la Asamblea General de las Naciones Unidas, con el objetivo de contribuir a la mejora de la calidad de vida de la población que tiene esta condición.
+Además, se quiere promover su inclusión como ciudadanos de pleno derecho en todos los ámbitos de la sociedad.
+En la celebración del Día Mundial de Concienciación sobre el Autismo, anualmente se selecciona un tema o lema central. Para el año 2022 el lema de la campaña de esta efeméride es "Un feliz viaje por la vida".
+Con ello se pretende concienciar acerca del derecho de todas las personas con trastorno del espectro del autismo (TEA) y sus familias a disfrutar de una vida feliz.</string>
+    <string name="txt_informacion5">El 2 de abril se celebra el Día Mundial de Concientización sobre el Autismo decretado por la Asamblea General de las Naciones Unidas, con el objetivo de contribuir a la mejora de la calidad de vida de la población que tiene esta condición. Además, se quiere promover su inclusión como ciudadanos de pleno derecho en todos los ámbitos de la sociedad. En la celebración del Día Mundial de Concienciación sobre el Autismo, anualmente se selecciona un tema o lema central. Para el año 2022 el lema de la campaña de esta efeméride es Un feliz viaje por la vida. Con ello se pretende concienciar acerca del derecho de todas las personas con trastorno del espectro del autismo (TEA) y sus familias a disfrutar de una vida feliz.</string>
+
+    <style name="TableLayoutStyle">
+        <item name="android:layout_marginLeft">45dp</item>
+        <item name="android:layout_marginRight">45dp</item>
+
+    </style>
+
+
+
+
+</resources>
+
+

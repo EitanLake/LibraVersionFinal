@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/itan/AndroidStudioProjects/LibraVersion 1.3/app/src/main/res/drawable/bg_ripple.xml" value="0.1605" />
+        <entry key="..\:/Users/itan/AndroidStudioProjects/LibraVersion 1.3/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.1605" />
+        <entry key="..\:/Users/itan/AndroidStudioProjects/LibraVersion 1.3/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.1605" />
+        <entry key="..\:/Users/itan/AndroidStudioProjects/LibraVersion 1.3/app/src/main/res/drawable/ic_bg.xml" value="0.1605" />
+        <entry key="..\:/Users/itan/AndroidStudioProjects/LibraVersion 1.3/app/src/main/res/drawable/ic_elipse.xml" value="0.1605" />
+        <entry key="..\:/Users/itan/AndroidStudioProjects/LibraVersion 1.3/app/src/main/res/drawable/ic_gradient_green.xml" value="0.1605" />
+        <entry key="..\:/Users/itan/AndroidStudioProjects/LibraVersion 1.3/app/src/main/res/drawable/ic_gradient_rose.xml" value="0.1605" />
+        <entry key="..\:/Users/itan/AndroidStudioProjects/LibraVersion 1.3/app/src/main/res/drawable/ic_home.xml" value="0.1605" />
+        <entry key="..\:/Users/itan/AndroidStudioProjects/LibraVersion 1.3/app/src/main/res/drawable/ic_marcador_foreground.xml" value="0.1605" />
+        <entry key="..\:/Users/itan/AndroidStudioProjects/LibraVersion 1.3/app/src/main/res/drawable/ic_user.xml" value="0.1605" />
+        <entry key="..\:/Users/itan/AndroidStudioProjects/LibraVersion 1.3/app/src/main/res/drawable/splash_screen.xml" value="0.1365" />
+        <entry key="..\:/Users/itan/AndroidStudioProjects/LibraVersion 1.3/app/src/main/res/layout/activity_auth.xml" value="0.25" />
+        <entry key="..\:/Users/itan/AndroidStudioProjects/LibraVersion 1.3/app/src/main/res/layout/activity_bottom_navigation_bar.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/itan/AndroidStudioProjects/LibraVersion 1.3/app/src/main/res/layout/fragment_home.xml" value="0.1638160395286963" />
+        <entry key="..\:/Users/itan/AndroidStudioProjects/LibraVersion 1.3/app/src/main/res/menu/bottom_nav.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/itan/AndroidStudioProjects/LibraVersion 1.3/app/src/main/res/mipmap-anydpi-v26/ic_marcador_round.xml" value="0.1605" />
+        <entry key="..\:/Users/itan/AndroidStudioProjects/Librabeta/app/src/main/res/drawable/bg_ripple.xml" value="0.1595" />
+        <entry key="..\:/Users/itan/AndroidStudioProjects/Librabeta/app/src/main/res/drawable/border_bottom.xml" value="0.16" />
+        <entry key="..\:/Users/itan/AndroidStudioProjects/Librabeta/app/src/main/res/drawable/border_top.xml" value="0.1595" />
+        <entry key="..\:/Users/itan/AndroidStudioProjects/Librabeta/app/src/main/res/drawable/boton.xml" value="0.16" />
+        <entry key="..\:/Users/itan/AndroidStudioProjects/Librabeta/app/src/main/res/drawable/btn_estilo.xml" value="0.1595" />
+        <entry key="..\:/Users/itan/AndroidStudioProjects/Librabeta/app/src/main/res/drawable/ic_bg.xml" value="0.16" />
+        <entry key="..\:/Users/itan/AndroidStudioProjects/Librabeta/app/src/main/res/drawable/ic_elipse.xml" value="0.16" />
+        <entry key="..\:/Users/itan/AndroidStudioProjects/Librabeta/app/src/main/res/drawable/ic_marcador_foreground.xml" value="0.16" />
+        <entry key="..\:/Users/itan/AndroidStudioProjects/Librabeta/app/src/main/res/drawable/ic_user.xml" value="0.16" />
+        <entry key="..\:/Users/itan/AndroidStudioProjects/Librabeta/app/src/main/res/layout/activity_auth.xml" value="0.2" />
+        <entry key="..\:/Users/itan/AndroidStudioProjects/Librabeta/app/src/main/res/layout/activity_bottom_navigation_bar.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/itan/AndroidStudioProjects/Librabeta/app/src/main/res/layout/fragment_home.xml" value="0.28848728246318606" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

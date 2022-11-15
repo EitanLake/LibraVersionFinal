@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            tools:context=".home"
+            android:layout_gravity="start">
+
+            <TextView
+                android:id="@+id/txtbienvenido"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/orange"
+                android:text="@string/txt_titulo1"
+                android:textAlignment="center"
+                android:textSize="50sp"
+                style="@style/TableLayoutStyle"/>
+
+            <TextView
+                android:id="@+id/txt_informacion"
+                style="@style/TableLayoutStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:fontFamily="@font/midnightmemories"
+                android:scrollbarSize="8dp"
+                android:text="@string/txt_bienvenida"
+                android:textAlignment="center"
+                android:textSize="26sp" />
+
+            <TextView
+                android:id="@+id/txt_titulo1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/orange"
+                android:text="@string/txt_titulo2"
+                android:textAlignment="center"
+                android:textSize="38sp"
+                style="@style/TableLayoutStyle"/>
+
+            <TextView
+                android:id="@+id/txt_informacion2"
+                style="@style/TableLayoutStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/midnightmemories"
+                android:scrollbarSize="8dp"
+                android:text="@string/txt_informacion2"
+                android:textSize="24sp" />
+
+            <ImageView
+                android:id="@+id/frase_concientizar"
+                style="@style/TableLayoutStyle"
+                android:layout_width="match_parent"
+                android:layout_height="400dp"
+                app:srcCompat="@drawable/frase_concientizar2"
+                tools:ignore="ImageContrastCheck" />
+
+            <TextView
+                android:id="@+id/txt_titulo2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/orange"
+                android:scrollbarSize="8dp"
+                android:text="@string/txt_titulo2"
+                android:textAlignment="center"
+                android:textSize="38sp"
+                style="@style/TableLayoutStyle"/>
+
+            <TextView
+                android:id="@+id/txt_informacion3"
+                style="@style/TableLayoutStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fontFamily="@font/midnightmemories"
+                android:scrollbarSize="8dp"
+                android:text="@string/txt_informacion3"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/txt_titulo3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/orange"
+                android:scrollbarSize="8dp"
+                android:text="@string/txt_titulo4"
+                android:textAlignment="center"
+                android:textSize="38sp"
+                style="@style/TableLayoutStyle"/>
+
+            <TextView
+                android:id="@+id/txt_informacion4"
+                style="@style/TableLayoutStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fontFamily="@font/midnightmemories"
+                android:scrollbarSize="8dp"
+                android:text="@string/txt_informacion3"
+                android:textSize="24sp" />
+
+            <ImageView
+                android:id="@+id/frase_concientizar4"
+                style="@style/TableLayoutStyle"
+                android:layout_width="match_parent"
+                android:layout_height="400dp"
+                app:srcCompat="@drawable/frase_concientizar4"
+                tools:ignore="ImageContrastCheck" />
+
+            <TextView
+                android:id="@+id/txt_titulo5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/orange"
+                android:scrollbarSize="8dp"
+                android:text="@string/txt_titulo5"
+                android:textAlignment="center"
+                android:textSize="38sp"
+                style="@style/TableLayoutStyle" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text='@string/txt_informacion5'
+                style="@style/TableLayoutStyle"
+                android:fontFamily="@font/midnightmemories"
+                android:scrollbarSize="8dp"
+                android:textSize="24sp"/>
+
+            <ImageView
+                android:id="@+id/frase_concientizar12"
+                style="@style/TableLayoutStyle"
+                android:layout_width="match_parent"
+                android:layout_height="400dp"
+                app:srcCompat="@drawable/frase_concientizar1"
+                tools:ignore="ImageContrastCheck"
+ />
+
+
+        </LinearLayout>
+</ScrollView>
